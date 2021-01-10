@@ -23,5 +23,6 @@
 	<classpathentry kind="src" path="Static Example/src"/>
 	<classpathentry kind="src" path="Strings/src"/>
 	<classpathentry kind="lib" path="Recursion/core.jar"/>
+	<classpathentry excluding="Abstract Classes/src/|Arrays/src/|Basic Object-Oriented Programming/src/|Example of OOP/src/|Exceptions/src/|Inheritance/src/|Interfaces &amp; Abstract Classes Together/src/|Interfaces/src/|JSynExperiments/src/|Loops/src/|Methods - miscellaneous/src/|Methods/src/|Multi-Dimensional Arrays/src/|Pokemon OOP/src/|Practice/src/|Processing/src/|Recap OOP/src/|Recursion/src/|Selections/src/|Static Example/src/|Strings/src/" kind="src" path=""/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
